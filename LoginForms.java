@@ -114,5 +114,16 @@ setTitle("LOGIN");
                                 .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)));
 
         pack();
+        
+        private void txt_usernameActionPerformed(java.awt.event.ActionEvent evt) { 
+        
+        }
+        
+        private void submitActionPerformed(java.awt.event.ActionEvent evt) {
+        
+        String username = "admin";
+        String password = "admin";
+        
+        }
   
 }
